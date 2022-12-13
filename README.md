@@ -7,7 +7,7 @@ I'am Vicente, a developer with stron background in back end fundamentals and Clo
 - 🌱 I’m currently learning to create Cloud Native Apps
 - 👯 I’m looking to collaborate on Distributed Systems/ Open Source projects
 - 💬 Ask me about Distributed Systems, Cloud Architecture, Production grade workloads
-- 📫 How to reach me: [LinkedIn] (linkedin.com/in/vicente-gorocica)
+- 📫 How to reach me: linkedin.com/in/vicente-gorocica
 - 😄 Pronouns: He/Him
 - 🔭 Certifications: Google Cloud ACE, Cisco CCNP, Cisco Devnet, Cisco CCNA. 
 
