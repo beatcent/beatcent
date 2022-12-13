@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'am Vicente, a developer with stron background in back end fundamentals and Cloud, looking for new opportunities to create impact and make a difference. 
+I'am Vicente, a developer with strong background in back end fundamentals and Cloud, looking for new opportunities to create impact and make a difference. 
 
 - 🔭 I’m currently working on Kubernetes for Google Cloud Platform
 - 🌱 I’m currently learning to create Cloud Native Apps
