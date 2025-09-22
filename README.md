@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 
 This is Vinx Aguilar shelter. I'm a Software Engineer with strong expertise in bulding large scale systems, implementing Generative AI and launching into Google Cloud.
