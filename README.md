@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 
-This is Vinx Aguilar shelter. I'm a Software Engineer with strong expertise in bulding large scale systems, implementing Generative AI and launching into Google Cloud.
+This is Vinx Aguilar. I'm a Software Engineer with expertise in bulding large scale systems, implementing Generative AI and developing product into Google Cloud.
 I'm looking for global scale opportunities to built the next big Thing and revolutionize the market with AI.
 
 - 🔭 Masters in Computer Science by University of Colorado, Boulder. 
