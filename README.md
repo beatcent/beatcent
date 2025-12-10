@@ -11,7 +11,7 @@ I'm looking for global scale opportunities to built the next big Thing and revol
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinx-aguilar/)
 - 😄 Pronouns: He/Him
 - 🔭 Certifications: Google Cloud Developer, GCP Cloud Arhictect, GCP Cloud Associate , Cisco CCNP, Cisco Devnet, Cisco CCNA. 
-- ⚡ Check out my recent [Blog](https://vicente-aguilar.blogspot.com)
+- ⚡ Check out my recent [Blog Post](https://medium.com/@beatcent) [1](https://vicente-aguilar.blogspot.com)
 
 <!--
 - ⚡ Fun fact: 
